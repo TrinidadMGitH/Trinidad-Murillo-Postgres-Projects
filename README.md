@@ -123,7 +123,7 @@ Potential enhancements include:
 ## Technologies Used
 
 * PostgreSQL
-* SQL
+* Google Sheets
 * Git
 * GitHub
 
